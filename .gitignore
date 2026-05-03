@@ -1,33 +1,5 @@
-# =========================
 # uv / virtual environment
-# =========================
 .venv/
 
-# =========================
-# Jupyter notebook checkpoints
-# =========================
-.ipynb_checkpoints/
-
-# =========================
-# Python cache
-# =========================
-__pycache__/
-*.pyc
-*.pyo
-
-# =========================
-# If you ever cache datasets locally (optional safety)
-# =========================
+# Data
 data/
-
-# =========================
-# OS files
-# =========================
-.DS_Store
-Thumbs.db
-
-# =========================
-# Logs / temp files
-# =========================
-*.log
-*.tmp
